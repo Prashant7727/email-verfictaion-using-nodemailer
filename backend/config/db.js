@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 mongoose.connect(
   
- "mongodb+srv://prashantsisodia08:prashant@cluster0.elezhgf.mongodb.net/ps",
+ "your_database_Url",
 );
 console.log("DB connected");
 
